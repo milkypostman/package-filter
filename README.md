@@ -1,5 +1,7 @@
-# package-filter.el --- Filtering for Emacs `package.el`.
+# package-filter.el
 
+Filtering for Emacs `package.el`.
+ 
 **Obsolete since Emacs 24.4**
 
 The `package-filter.el` package adds functionality to `package.el`
