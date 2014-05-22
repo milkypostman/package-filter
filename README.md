@@ -2,7 +2,8 @@
 
 Filtering for Emacs `package.el`.
  
-**Obsolete since Emacs 24.4**
+**Obsolete since Emacs 24.4: Users should customize or otherwise modify
+the new `package-pinned-packages` variable instead.**
 
 The `package-filter.el` package adds functionality to `package.el`
 provided by Emacs to allow creating a whitelist or blacklist of
